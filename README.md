@@ -4,8 +4,8 @@ The aim of this project is to provide a decision making tool for job seekers in 
 Specifically, the project consists of two parts: **Visualizations** and **Predictive modeling**.  
 
 The **Visualizations** offer key insights from the job postings data relating to the followings: 
-
-* Locations
+  
+  * Locations
 * Sectors & Industries 
 * Qualification & Skills
 * Salary 
@@ -13,9 +13,9 @@ The **Visualizations** offer key insights from the job postings data relating to
 The **predictive tool** allows the users to get an estimate on Annual salary based on features variables (e.g., Analytics-specific skills such as SQL and Visualization, and Company information such as Industry and number of employees)
 
 <br>
-Below are the files created for this projects: 
-
-* **Business_Analyst_cleaning.ipynb**: This script performs cleaning of Business analyst job posting data 
+  Below are the files created for this projects: 
+  
+  * **Business_Analyst_cleaning.ipynb**: This script performs cleaning of Business analyst job posting data 
 
 * **Data_Analyst_cleaning.ipynb**: This script performs cleaning of Data analyst job posting data 
 
@@ -33,10 +33,9 @@ Below are the files created for this projects:
 
 * **Predictive_Modeling.ipynb**: This script constructs predictive models for annual salary, runs validations, and compares results between the models. 
 
-  + Models: Linear, Ridge, and Lasso regression models
-  + Validation: Cross validation
-  + Measure of goodness: RMSE  
++ Models: Linear, Ridge, and Lasso regression models
++ Validation: Cross validation
++ Measure of goodness: RMSE  
 
 <br>
-For the overall summarized results, please see **Presentation.pdf**. 
-  
+  For the overall summarized results, please see **Presentation.pdf**. 
