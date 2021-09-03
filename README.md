@@ -38,4 +38,4 @@ The **predictive tool** allows the users to get an estimate on Annual salary bas
   + Measure of goodness: RMSE  
 
 <br>
-For the overall summarized results, please see **Presentation.pdf**. 
+For the overall summarized results, please see <b>Presentation.pdf</b>. 
