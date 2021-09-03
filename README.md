@@ -33,9 +33,9 @@ The **predictive tool** allows the users to get an estimate on Annual salary bas
 
 * **Predictive_Modeling.ipynb**: This script constructs predictive models for annual salary, runs validations, and compares results between the models. 
 
-+ Models: Linear, Ridge, and Lasso regression models
-+ Validation: Cross validation
-+ Measure of goodness: RMSE  
+  + Models: Linear, Ridge, and Lasso regression models
+  + Validation: Cross validation
+  + Measure of goodness: RMSE  
 
 <br>
-  For the overall summarized results, please see **Presentation.pdf**. 
+For the overall summarized results, please see **Presentation.pdf**. 
